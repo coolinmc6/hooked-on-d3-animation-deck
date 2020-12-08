@@ -11,6 +11,7 @@ import "@material/react-material-icon/dist/material-icon.css";
 import "@material/react-typography/dist/typography.css";
 import "./App.css";
 
+
 // TODO: reset should animate transition out
 
 const App = () => {
